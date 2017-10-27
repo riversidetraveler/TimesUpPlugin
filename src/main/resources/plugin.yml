@@ -1,0 +1,14 @@
+name: TimesUpPlugin
+version: 1.0
+main: us.krygowski.spigotplugins.TimesUpPlugin
+author: jimkrygowski
+commands:
+   timesup:
+      description: This command allows for the creation of a server shutdown timer
+      usage: /timesup set [minutes]
+             /timesup cancel
+             /timesup pause
+             /timesup resume
+             /timesup timeleft
+      permission: <plugin name>.basic
+      permission-message: You don't have <permission>
