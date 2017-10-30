@@ -1,7 +1,7 @@
 # TimesUpPlugin
-TimesUpPlugin is a console plugin intended to help parents to enforce a limit on the amount of time their kids spend in a Minecraft session. This plugin admittedly is a very focused solution to a specific problem I needed to address as a dad. It takes me out of the negotiation loop and puts the server in charge of "deciding" when its time to stop playing Minecraft. This approach is working for me but YMMV.
+TimesUpPlugin is a console plugin intended to help parents to enforce a limit on the amount of time their kids spend in a Minecraft session. This plugin admittedly is a very focused solution to a specific problem I needed to address as a dad. It takes me out of the negotiation loop and puts the server in charge of "deciding" when it's time to stop playing Minecraft. This approach is working for me but YMMV.
 
-This plugin is written against the Bukkit API and is intendend for use only on Minecraft servers that support that API. I've persionally tested using [SpigotMC](https://www.spigotmc.org/). 
+This plugin is written against the Bukkit API and is intendend for use only on Minecraft servers that support that API. I've personally tested using [SpigotMC](https://www.spigotmc.org/). 
 
 ## Building
 
