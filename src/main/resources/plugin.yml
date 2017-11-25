@@ -10,5 +10,3 @@ commands:
              /timesup pause
              /timesup resume
              /timesup timeleft
-      permission: <plugin name>.basic
-      permission-message: You don't have <permission>
