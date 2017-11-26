@@ -192,7 +192,7 @@ public class TimesUpPlugin extends JavaPlugin {
             public void run() {
                 long minutesLeft = timeLimit - ((System.currentTimeMillis() - timerStart) / 1000 / 60);
                 getServer().broadcastMessage("There are " + minutesLeft + " minutes left!!!");
-                getLogger().info("There are " + minutesLeft + "minutes left!!!");
+                getLogger().info("There are " + minutesLeft + " minutes left!!!");
             }
         }, 1L, TIME_CHECK_PERIOD);
 
